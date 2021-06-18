@@ -60,7 +60,7 @@ const app = {
             id: 1,
             name: "Diễm Xưa",
             singer: "Miu Lê",
-            path: "../assets/audio/Diem-Xua-Em-La-Ba-Noi-Cua-Anh-OST-Miu-Le.mp3",
+            path: "./assets/audio/Diem-Xua-Em-La-Ba-Noi-Cua-Anh-OST-Miu-Le.mp3",
             image: "../assets/images/diem-xua-miu-le.jpg",
             author: "Trịnh Công Sơn"
         },
@@ -68,15 +68,15 @@ const app = {
             id: 2,
             name: "Còn tuổi nào cho em",
             singer: "Miu Lê",
-            path: "../assets/audio/Con-Tuoi-Nao-Cho-Em-Miu-Le.mp3",
-            image: "../assets/images/miu-le.jpg",
+            path: "./assets/audio/Con-Tuoi-Nao-Cho-Em-Miu-Le.mp3",
+            image: "./assets/images/miu-le.jpg",
             author: "Trịnh Công Sơn"
         },
         {
             id: 3,
             name: "Để gió cuốn đi",
             singer: "Đoan Trang x Phương Linh x Hoàng Ngân",
-            path: "../assets/audio/De-Gio-Cuon-Di-Doan-Trang-Phuong-Linh-Hoang-Ngan.mp3",
+            path: "./assets/audio/De-Gio-Cuon-Di-Doan-Trang-Phuong-Linh-Hoang-Ngan.mp3",
             image: "../assets/images/de-gio-cuon-di.jpg",
             author: "Trịnh Công Sơn"
         },
@@ -84,7 +84,7 @@ const app = {
             id: 4,
             name: "Tuổi đá buồn",
             singer: "Quang Dũng",
-            path: "../assets/audio/Tuoi-Da-Buon-Quang-Dung.mp3",
+            path: "./assets/audio/Tuoi-Da-Buon-Quang-Dung.mp3",
             image: "../assets/images/quang-dung.jpg",
             author: "Trịnh Công Sơn"
         },
@@ -92,32 +92,32 @@ const app = {
             id: 5,
             name: "Hạ trắng",
             singer: "Ngọc Lan",
-            path: "../assets/audio/Ha-Trang-Ngoc-Lan.mp3",
-            image: "../assets/images/ngoc-lan.jpg",
+            path: "./assets/audio/Ha-Trang-Ngoc-Lan.mp3",
+            image: "./assets/images/ngoc-lan.jpg",
             author: "Trịnh Công Sơn"
         },
         {
             id: 6,
             name: "Ánh trăng nói hộ lòng tôi",
             singer: "Đặng Lệ Quân",
-            path: "../assets/audio/Anh-Trang-Noi-Ho-Long-Toi-Dang-Le-Quan.mp3",
-            image: "../assets/images/dang-le-quan.jpg",
+            path: "./assets/audio/Anh-Trang-Noi-Ho-Long-Toi-Dang-Le-Quan.mp3",
+            image: "./assets/images/dang-le-quan.jpg",
             author: "Nhạc Hoa"
         },
         {
             id: 7,
             name: "Hãy yêu nhau đi",
             singer: "Trần Thu Hà",
-            path: "../assets/audio/Hay-Yeu-Nhau-Di-Tran-Thu-Ha.mp3",
-            image: "../assets/images/tran-thu-ha.jpg",
+            path: "./assets/audio/Hay-Yeu-Nhau-Di-Tran-Thu-Ha.mp3",
+            image: "./assets/images/tran-thu-ha.jpg",
             author: "Trịnh Công Sơn"
         },
         {
             id: 8,
             name: "Như Cánh Vạc Bay",
             singer: "Hồng Nhung",
-            path: "../assets/audio/Nhu-Canh-Vac-Bay-Hong-Nhung.mp3",
-            image: "../assets/images/hong-nhung.jpg",
+            path: "./assets/audio/Nhu-Canh-Vac-Bay-Hong-Nhung.mp3",
+            image: "./assets/images/hong-nhung.jpg",
             author: "Trịnh Công Sơn"
         }
     ],
