@@ -61,7 +61,7 @@ const app = {
             name: "Diễm Xưa",
             singer: "Miu Lê",
             path: "./assets/audio/Diem-Xua-Em-La-Ba-Noi-Cua-Anh-OST-Miu-Le.mp3",
-            image: "../assets/images/diem-xua-miu-le.jpg",
+            image: "./assets/images/diem-xua-miu-le.jpg",
             author: "Trịnh Công Sơn"
         },
         {
@@ -77,7 +77,7 @@ const app = {
             name: "Để gió cuốn đi",
             singer: "Đoan Trang x Phương Linh x Hoàng Ngân",
             path: "./assets/audio/De-Gio-Cuon-Di-Doan-Trang-Phuong-Linh-Hoang-Ngan.mp3",
-            image: "../assets/images/de-gio-cuon-di.jpg",
+            image: "./assets/images/de-gio-cuon-di.jpg",
             author: "Trịnh Công Sơn"
         },
         {
@@ -85,7 +85,7 @@ const app = {
             name: "Tuổi đá buồn",
             singer: "Quang Dũng",
             path: "./assets/audio/Tuoi-Da-Buon-Quang-Dung.mp3",
-            image: "../assets/images/quang-dung.jpg",
+            image: "./assets/images/quang-dung.jpg",
             author: "Trịnh Công Sơn"
         },
         {
